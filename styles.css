@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(125deg, #87FDF1, #F2BEFC);
+    background-size: cover;
+    height: 100%;
+    min-height: 100vh;
+    color: #59564A;
+    font-family: "Quicksand", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    color: #59564A;
+    text-decoration: none;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    border-radius: 2rem;
+}
